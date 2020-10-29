@@ -1,4 +1,4 @@
-module logger
+module log4g
 
 require github.com/sirupsen/logrus v1.7.0
 
